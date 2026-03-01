@@ -16,7 +16,7 @@ export default function Home() {
           <li className="mb-2 tracking-[-.01em]">
             adrta mi {" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              app/mesudo npm run build.tsx
+              app/me.txt
             </code>
             .
           </li>
